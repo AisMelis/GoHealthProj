@@ -16,9 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1262" />
+    <option name="x" value="693" />
     <option name="y" value="23" />
-    <option name="width" value="418" />
+    <option name="width" value="987" />
     <option name="height" value="951" />
   </component>
   <component name="ProjectView">
@@ -92,14 +92,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1006" y="23" width="674" height="951" extended-state="0" />
+    <frame x="693" y="23" width="987" height="951" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5424837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3589189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32886723" />
